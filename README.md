@@ -4,4 +4,7 @@ This small project was developed as part of a university course on graph theory.
 
 The jupyter notebook [code.ipynb](code.ipynb) contains all the project, many figures and some analysis of the results.
 
+![Swarms of nanosatellites](code_files/code_3_0.png)
+
+
 
